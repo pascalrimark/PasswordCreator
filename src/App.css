@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.ip {
+  padding: 10px;
+  width:50%
+}
+
+#pass {
+  font-family: consolas;
+}
