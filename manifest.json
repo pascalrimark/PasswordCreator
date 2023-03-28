@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Password Creator",
+  "name": "Simple yet effective password creator",
   "icons": [
     {
       "src": "favicon.ico",
