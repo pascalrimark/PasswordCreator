@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/passwordcreator/static/css/main.c5728019.css",
-    "main.js": "/passwordcreator/static/js/main.96fdb963.js",
-    "static/js/787.847aaa73.chunk.js": "/passwordcreator/static/js/787.847aaa73.chunk.js",
-    "index.html": "/passwordcreator/index.html",
-    "main.c5728019.css.map": "/passwordcreator/static/css/main.c5728019.css.map",
-    "main.96fdb963.js.map": "/passwordcreator/static/js/main.96fdb963.js.map",
-    "787.847aaa73.chunk.js.map": "/passwordcreator/static/js/787.847aaa73.chunk.js.map"
+    "main.css": "/PasswordCreator/static/css/main.c5728019.css",
+    "main.js": "/PasswordCreator/static/js/main.c3e8fbf5.js",
+    "static/js/787.847aaa73.chunk.js": "/PasswordCreator/static/js/787.847aaa73.chunk.js",
+    "index.html": "/PasswordCreator/index.html",
+    "main.c5728019.css.map": "/PasswordCreator/static/css/main.c5728019.css.map",
+    "main.c3e8fbf5.js.map": "/PasswordCreator/static/js/main.c3e8fbf5.js.map",
+    "787.847aaa73.chunk.js.map": "/PasswordCreator/static/js/787.847aaa73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5728019.css",
-    "static/js/main.96fdb963.js"
+    "static/js/main.c3e8fbf5.js"
   ]
 }
