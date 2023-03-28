@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/passwordcreator/static/css/main.c5728019.css",
+    "main.js": "/passwordcreator/static/js/main.96fdb963.js",
+    "static/js/787.847aaa73.chunk.js": "/passwordcreator/static/js/787.847aaa73.chunk.js",
+    "index.html": "/passwordcreator/index.html",
+    "main.c5728019.css.map": "/passwordcreator/static/css/main.c5728019.css.map",
+    "main.96fdb963.js.map": "/passwordcreator/static/js/main.96fdb963.js.map",
+    "787.847aaa73.chunk.js.map": "/passwordcreator/static/js/787.847aaa73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5728019.css",
+    "static/js/main.96fdb963.js"
+  ]
+}
